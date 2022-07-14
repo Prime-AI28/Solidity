@@ -29,8 +29,7 @@ contract FundME{
     }
 
     // function withdraw(){}
-}
-*/
+}*/
 
 //sending eth to the function and reverts
 //Get funds from user 
